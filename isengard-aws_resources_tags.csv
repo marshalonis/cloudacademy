@@ -1,0 +1,51 @@
+Resource ARN,Tags
+arn:aws:acm:us-east-1:664967481508:certificate/ab32af4f-ec4e-4729-bd65-f0313572b59f,Name:mistandards.org
+arn:aws:acm:us-east-1:664967481508:certificate/c08965bf-3f93-4296-841d-d43d84eefb34,project_billing:project:amob
+arn:aws:apigateway:us-east-1::/restapis/prgm47kupj,"project_billing:project:a2son, CreatedBy:terraform, Environment:dev, Name:feature-recognizer"
+arn:aws:apigateway:us-east-1::/restapis/4ah1b1keni/stages/dev-neptune-ingest,"project_billing:project:a2son, CreatedBy:terraform, Environment:dev, Name:neptune-ingest"
+arn:aws:backup:us-east-1:664967481508:recovery-point:95b41649-acfa-4318-a346-f452d40948f0,Name:lego3d-working-storage
+arn:aws:backup:us-east-1:664967481508:recovery-point:fba42118-e835-4720-be85-3085e55b3e82,Name:lego3d-working-storage
+arn:aws:backup:us-east-1:664967481508:recovery-point:1086f3cc-be09-43ff-ab52-0a6fb5e84911,"project_billing:project:maui, project:maui, Name:maui-efs"
+arn:aws:backup:us-east-1:664967481508:recovery-point:4982d1c3-50af-4346-8299-2b7ebd01daf0,Name:lego3d-working-storage
+arn:aws:backup:us-east-1:664967481508:recovery-point:9a09619f-67be-4bdb-904f-879a4902b26a,"project_billing:project:maui, project:maui, Name:maui-efs"
+arn:aws:backup:us-east-1:664967481508:recovery-point:9a620bfa-48f6-4129-a0d8-2cfd891fe62b,Name:lego3d-working-storage
+arn:aws:backup:us-east-1:664967481508:recovery-point:05b2b923-8439-4576-9cdb-d76845349e13,Name:lego3d-working-storage
+arn:aws:backup:us-east-1:664967481508:recovery-point:76180801-f0e6-490f-bdbd-3060bc80bad5,"project_billing:project:maui, project:maui, Name:maui-efs"
+arn:aws:backup:us-east-1:664967481508:recovery-point:08f233c7-c868-4002-b256-ed5f3ebe8a23,"project_billing:project:maui, project:maui, Name:maui-efs"
+arn:aws:backup:us-east-1:664967481508:recovery-point:25572604-e514-4424-9ef4-118f9381cb6d,"project_billing:project:maui, project:maui, Name:maui-efs"
+arn:aws:backup:us-east-1:664967481508:recovery-point:a12f4944-7262-447e-a385-11a133e13061,Name:lego3d-working-storage
+arn:aws:backup:us-east-1:664967481508:recovery-point:3666f50c-f3ba-4ab2-a863-bb6e8b4a312a,"project_billing:project:maui, project:maui, Name:maui-efs"
+arn:aws:backup:us-east-1:664967481508:recovery-point:95e59467-2a0a-4339-842e-fc1c515a64cd,Name:lego3d-working-storage
+arn:aws:backup:us-east-1:664967481508:recovery-point:20c2041b-0537-4a3d-8134-4afff15b4902,Name:lego3d-working-storage
+arn:aws:backup:us-east-1:664967481508:recovery-point:3b3f1280-de8e-4b87-ae5d-e4e0ac2bc434,"project_billing:project:maui, project:maui, Name:maui-efs"
+arn:aws:backup:us-east-1:664967481508:recovery-point:cd52d6b2-e3a0-4815-88d4-68d8f3e3c29a,Name:lego3d-working-storage
+arn:aws:backup:us-east-1:664967481508:recovery-point:e88ef140-6876-467c-8387-c5d6576c8ef1,"project_billing:project:maui, project:maui, Name:maui-efs"
+arn:aws:backup:us-east-1:664967481508:recovery-point:78b9f576-9946-4872-9cb1-68a595e24e81,Name:lego3d-working-storage
+arn:aws:backup:us-east-1:664967481508:recovery-point:07b9c5dd-c191-42bb-885b-49130ca1f2ff,Name:lego3d-working-storage
+arn:aws:backup:us-east-1:664967481508:recovery-point:2b14cced-01c7-4f00-80c1-88d733110685,Name:lego3d-working-storage
+arn:aws:backup:us-east-1:664967481508:recovery-point:bb94232b-db35-4465-993f-bf0a0e4d0029,"project_billing:project:maui, project:maui, Name:maui-efs"
+arn:aws:batch:us-east-1:664967481508:job-queue/scale_infinity_critical_queue,"project_billing:project:scale-infinity, project:scale-infinity, Name:iscale, deployment:iscale-terraform"
+arn:aws:catalog:us-east-1:664967481508:portfolio/port-2k6mlxpow4geg,
+arn:aws:catalog:us-east-1:664967481508:product/prod-7ezx6skxirzgw,"Project:None, Billingpoc:None, Org:None, Team:None, SPID:None"
+arn:aws:catalog:us-east-1:664967481508:product/prod-rkfv4oo6njhp6,"Project:None, Billingpoc:None, Org:None, Team:None, SPID:None"
+arn:aws:catalog:us-east-1:664967481508:product/prod-mohbmoje6jbxo,"Project:None, Billingpoc:None, Org:None, Team:None, SPID:None"
+arn:aws:cloud9:us-east-1:664967481508:environment:f64974612b2c45c2ba6bb7640cbe0dc0,project_billing:project:amob
+arn:aws:cloudformation:us-east-1:664967481508:stack/main-stack-dev/305bf970-15d7-11ee-96e9-12b6e6aa947b,"Project:proserve-ssm, Billingpoc:None, Org:None, Team:None, SPID:None"
+arn:aws:cloudformation:us-east-1:664967481508:stack/SC-664967481508-pp-3q7bsxgv2lu3g/ad50eec0-2bc8-11ee-8d6d-0eeeb621168f,"aws:servicecatalog:productArn:arn:aws:catalog:us-east-1:664967481508:product/prod-35xq7t6acai44, aws:servicecatalog:provisioningPrincipalArn:arn:aws:iam::664967481508:user/hulls, aws:servicecatalog:provisioningArtifactIdentifier:pa-rjk2l5qvhjggk, aws:servicecatalog:portfolioArn:arn:aws:catalog:us-east-1:664967481508:portfolio/port-x33z5tnjs6mr2, aws:servicecatalog:provisionedProductArn:arn:aws:servicecatalog:us-east-1:664967481508:stack/3._Budget_Setup-07261544/pp-3q7bsxgv2lu3g"
+arn:aws:cloudformation:us-east-1:664967481508:stack/SC-664967481508-pp-zp32yq4ci5pje/266a94e0-2ca1-11ee-8bb1-12727b072531,"aws:servicecatalog:productArn:arn:aws:catalog:us-east-1:664967481508:product/prod-pl6b6c4ju56cg, aws:servicecatalog:provisioningPrincipalArn:arn:aws:iam::664967481508:user/RadarUser1, aws:servicecatalog:provisioningArtifactIdentifier:pa-mwflcfnkcpwck, aws:servicecatalog:portfolioArn:arn:aws:catalog:us-east-1:664967481508:portfolio/port-h3rflsmo35vva, aws:servicecatalog:provisionedProductArn:arn:aws:servicecatalog:us-east-1:664967481508:stack/Key_Pair_for_POD_SSH-07271746/pp-zp32yq4ci5pje"
+arn:aws:cloudformation:us-east-1:664967481508:stack/SC-664967481508-pp-q3nymnhdsa2fq/9dc6a1e0-2bcb-11ee-a924-0acc93b2964d,"aws:servicecatalog:productArn:arn:aws:catalog:us-east-1:664967481508:product/prod-35xq7t6acai44, aws:servicecatalog:provisioningPrincipalArn:arn:aws:iam::664967481508:user/hulls, aws:servicecatalog:provisioningArtifactIdentifier:pa-rjk2l5qvhjggk, aws:servicecatalog:portfolioArn:arn:aws:catalog:us-east-1:664967481508:portfolio/port-x33z5tnjs6mr2, aws:servicecatalog:provisionedProductArn:arn:aws:servicecatalog:us-east-1:664967481508:stack/3._Budget_Setup-07261506/pp-q3nymnhdsa2fq"
+arn:aws:cloudformation:us-east-1:664967481508:stack/SC-664967481508-pp-x6txxppdxdvxo/b3f1f740-2ca1-11ee-9d25-0e6b02addf03,"aws:servicecatalog:productArn:arn:aws:catalog:us-east-1:664967481508:product/prod-7ezx6skxirzgw, aws:servicecatalog:provisioningPrincipalArn:arn:aws:iam::664967481508:user/RadarUser1, aws:servicecatalog:provisioningArtifactIdentifier:pa-n7c6l4fxzabns, aws:servicecatalog:portfolioArn:arn:aws:catalog:us-east-1:664967481508:portfolio/port-h3rflsmo35vva, aws:servicecatalog:provisionedProductArn:arn:aws:servicecatalog:us-east-1:664967481508:stack/POD_EC2_Instance-07271704/pp-x6txxppdxdvxo"
+arn:aws:cloudformation:us-east-1:664967481508:stack/iam-stack-dev/fd91cec0-15d6-11ee-8e9c-0abac4ec8375,"Project:proserve-ssm, Billingpoc:None, Org:None, Team:None, SPID:None"
+arn:aws:cloudformation:us-east-1:664967481508:stack/aws-python-scheduled-cron-dev/3bf99ad0-c8c0-11e8-ab8e-50d5cafe76fe,STAGE:dev
+arn:aws:cloudformation:us-east-1:664967481508:stack/SC-664967481508-pp-emjkfi4ff7ofc/f036dd70-48fc-11ee-8ce0-125645bd0fbb,"aws:servicecatalog:productArn:arn:aws:catalog:us-east-1:664967481508:product/prod-35xq7t6acai44, aws:servicecatalog:provisioningPrincipalArn:arn:aws:iam::664967481508:user/perlmutterk, aws:servicecatalog:provisioningArtifactIdentifier:pa-b6pyhstogcfng, aws:servicecatalog:portfolioArn:arn:aws:catalog:us-east-1:664967481508:portfolio/port-x33z5tnjs6mr2, aws:servicecatalog:provisionedProductArn:arn:aws:servicecatalog:us-east-1:664967481508:stack/foundation-pod-budget-setup/pp-emjkfi4ff7ofc"
+arn:aws:cloudwatch:us-east-1:664967481508:alarm:TargetTracking-table/qic-sayari-tf-lock-ProvisionedCapacityLow-c8662467-018e-4bdc-b205-4aff7ce24e3c,
+arn:aws:cloudwatch:us-east-1:664967481508:alarm:TargetTracking-table/qic-sayari-tf-lock-AlarmLow-cb447c53-742b-484f-9252-334f371eb35f,
+arn:aws:cloudwatch:us-east-1:664967481508:alarm:TargetTracking-table/rle-backup-delete-AlarmLow-457c51f4-e571-4100-878b-a3966f89f21d,
+arn:aws:cloudwatch:us-east-1:664967481508:alarm:TargetTracking-table/qic-sayari-tf-lock-ProvisionedCapacityLow-e5e3d958-55a5-4a98-a1ee-0ec6618c1625,
+arn:aws:cloudwatch:us-east-1:664967481508:alarm:TargetTracking-table/instance-history-AlarmLow-493014d0-c3b9-432b-b67f-311762580ed1,
+arn:aws:cloudwatch:us-east-1:664967481508:alarm:TargetTracking-table/rle-backup-delete-ProvisionedCapacityHigh-0ead024f-7eac-48af-8a71-f5999f65ec80,
+arn:aws:cloudwatch:us-east-1:664967481508:alarm:s3_failed_access-WriteCapacityUnitsLimit-BasicAlarm,
+arn:aws:cloudwatch:us-east-1:664967481508:alarm:s3_failed_access-ReadCapacityUnitsLimit-BasicAlarm,
+arn:aws:cloudwatch:us-east-1:664967481508:alarm:TargetTracking-table/s3_object_last_accessed-AlarmHigh-c90405c9-b057-417c-b4a6-535f72d7f8cc,
+arn:aws:cloudwatch:us-east-1:664967481508:alarm:TargetTracking-table/s3_rleu_backups-ProvisionedCapacityLow-1ef9971c-e1ef-4c61-a7ad-8cc17b8eeed4,
+arn:aws:cloudwatch:us-east-1:664967481508:alarm:TargetTracking-table/instance-history-AlarmHigh-c7de0c03-ec5d-4935-8d98-6c6d554873c7,
