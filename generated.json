@@ -1,0 +1,20 @@
+[
+ {
+   "resource": "ec2",
+   "name": "harry potter",
+   "project": "cloak",
+   "email": "test@test.com"
+ },
+ {
+   "resource": "s3",
+   "name": "superman",
+   "project": "sword",
+   "email": "supoer@man.com"
+ },
+ {
+   "resource": "iam",
+   "name": "iamname",
+   "project": "iamproject",
+   "email": "iamemail"
+ }
+]
