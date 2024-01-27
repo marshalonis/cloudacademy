@@ -1,0 +1,14 @@
+[
+    {
+        "serviceName": "Amazon EC2",
+        "arnFormat": "arn:aws:ec2:region:account-id:resource-type/resource-id"
+    },
+    {
+        "serviceName": "Amazon S3",
+        "arnFormat": "arn:aws:s3:::bucket-name/key-name"
+    },
+    {
+        "serviceName": "Amazon DynamoDB",
+        "arnFormat": "arn:aws:dynamodb:region:account-id:table/table-name"
+    }
+]
